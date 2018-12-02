@@ -1,0 +1,1 @@
+Arduino code for driving the matrix. Accepts strings to display via serial at 9600 baud.

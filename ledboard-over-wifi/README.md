@@ -1,0 +1,1 @@
+Containts ESP8266 code for HTTP server that outputs contents of GET request to serial.
